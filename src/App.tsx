@@ -855,7 +855,7 @@ function App() {
                   controlsList="nodownload nofullscreen noremoteplayback"
                   disablePictureInPicture
                 >
-                  <source src="\public\video/vpndemo.mp4" type="video/mp4" />
+                  <source src="\public\vidéo/vpndemo.mp4" type="video/mp4" />
                   Votre navigateur ne supporte pas la lecture vidéo.
                 </video>
               </div>
